@@ -1,10 +1,10 @@
 {
-    "limitCount": 10,
-    "ownerNumber": "",
-    "memberLimit": 10,
+    "limitCount": 25,
+    "ownerNumber": "6288742689173",
+    "memberLimit": 25,
     "groupLimit": 50,
     "medialimitCount": "5",
-    "prefix": "/",
+    "prefix": "&",
     "vhtearkey": "Your Apikey In Here",
-    "apitech": "Your Apikey In Here"
+    "itech": "Your Apikey In Here"
 }
